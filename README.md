@@ -1,5 +1,5 @@
 **Delivered:** February 2024
-**Fee:** $80 (one-time setup)
+**Fee:** $20 (one-time setup)
 
 ## The Problem
 Client got 4 messy Excel files every week - missing values, duplicates, wrong dates. Spent 5+ hours/month cleaning manually.
